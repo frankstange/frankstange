@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @frankstange
 - 👀 I’m interested in IT Security, Python coding, online gaming and music (record player prefered)
-- 🌱 I’m currently learning full-stack engineer at codecademy
+- 🌱 I’m currently learning Python coding at codecademy
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: frank.stange@me.com or on my blog www.dev-lounge.com
+- 📫 How to reach me: frank.stange@me.com
 
 <!---
 frankstange/frankstange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
