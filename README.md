@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankstange
-- 👀 I’m interested in IT Security, coding (Python, C++), online gaming and music (record player prefered)
+- 👀 I’m interested in IT Security, coding (C#), online gaming and music (record player prefered)
 - 🌱 I am currently studying computer science at the FernUni Hagen. 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: frank.stange@me.com
